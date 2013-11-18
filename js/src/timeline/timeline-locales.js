@@ -87,6 +87,22 @@ links.locales['da'] = {
 };
 links.locales['da_DK'] = links.locales['da'];
 
+// Norwegian ===================================================
+links.locales['no'] = {
+    'MONTHS': new Array("januar", "februar", "mars", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "desember"),
+    'MONTHS_SHORT': new Array("jan", "feb", "mar", "apr", "mai", "jun", "jul", "aug", "sep", "okt", "nov", "des"),
+    'DAYS': new Array("søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"),
+    'DAYS_SHORT': new Array("søn", "man", "tir", "ons", "tor", "fre", "lør"),
+    'ZOOM_IN': "Zoom inn",
+    'ZOOM_OUT': "Zoom ut",
+    'MOVE_LEFT': "Flytt venstre",
+    'MOVE_RIGHT': "Flytt høyre",
+    'NEW': "Ny",
+    'CREATE_NEW_EVENT': "Ny hendelse"
+};
+links.locales['nb_NO'] = links.locales['no'];
+
+
 // Russian ===================================================
 links.locales['ru'] = {
     'MONTHS': new Array("Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"),
